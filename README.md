@@ -43,5 +43,5 @@ You can run the script from the command line by passing the following arguments:
 
 ## Example:
 ```bash
-python script_name.py --host myhost --username admin --password mypassword --reportId report123 --outputDir C:\Reports
+python DownloadReport.py --host myhost --username admin --password mypassword --reportId report123 --outputDir C:\Reports
 ```
