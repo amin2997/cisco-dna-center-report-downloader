@@ -1,0 +1,5 @@
+# Ignore the .vscode folder where launch.json and other editor settings are stored
+.vscode/
+
+# Optional: If you only want to ignore the launch.json specifically (and not the entire .vscode directory)
+.vscode/launch.json
